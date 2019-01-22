@@ -1,0 +1,5 @@
+D:\school work\Y3_2\4E\Group 8\Program\2 Maze\Maze_.cydsn\Maze_.cyprj|c56e1736-5cd7-4ebd-a4eb-fac62d55c27e
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|56acf41c-0539-4319-8cf4-45ee992ff70d
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|6c6e8d1b-85a8-417d-b8b2-a316777d1d98
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b61e4015-e64c-465a-8d8d-4df3192edd65
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|0cf5fb62-e004-4321-ad81-e3b119554ba6
