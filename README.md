@@ -15,8 +15,6 @@ Implemented an intelligent robot which can achieve the following two functions:
 - Encoder
 ## Implementation
 ### Line-tracking
-
-#### Functions
 - ADC_Convert() 
 - PWM_Control()
 - Initialize_Components()
@@ -27,7 +25,6 @@ Implemented an intelligent robot which can achieve the following two functions:
 
 ### Maze-Solving
 
-#### Functions
 - State_Verify()
 - Speed_Verify()
 - Position()
